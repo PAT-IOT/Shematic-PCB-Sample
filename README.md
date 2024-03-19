@@ -1,6 +1,6 @@
 # Schematic PCB Sample Repository
 
-This repository contains a variety of sample schematic and PCB (Printed Circuit Board) designs created using Altium Designer Software. These designs are provided as examples to demonstrate the capabilities and potential applications of our software.
+This repository contains a variety of sample schematic and PCB (Printed Circuit Board) designs created using Altium Designer Software.
 
 
 ## Contents
