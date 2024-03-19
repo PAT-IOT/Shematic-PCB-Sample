@@ -1,6 +1,7 @@
 # Schematic PCB Sample Repository
 
-This repository contains sample schematic and PCB (Printed Circuit Board) designs for [your project/company name]. These designs are provided as examples to demonstrate [what the designs illustrate or are intended for].
+This repository contains a variety of sample schematic and PCB (Printed Circuit Board) designs created using Altium Designer Software. These designs are provided as examples to demonstrate the capabilities and potential applications of our software.
+
 
 ## Contents
 
@@ -12,20 +13,21 @@ This repository contains sample schematic and PCB (Printed Circuit Board) design
 
 ## Introduction
 
-In this repository, you'll find sample schematic and PCB designs created using [software/tool name]. These designs are intended to showcase [features, capabilities, etc.].
+Welcome to our Schematic PCB Sample Repository!
 
-## Folder Structure
+
+Here, you'll find an assortment of sample schematics created with Altium Designer Software. Each schematic includes associated footprint parts, simplifying their integration into your projects.
 
 - `Schematics`: This folder contains schematic designs.
 - `PCB`: This folder contains PCB layouts.
 
 ## Usage
 
-Feel free to use these designs as a reference or starting point for your own projects. You can open and modify them using [software/tool name].
+Feel free to use these designs as inspiration or starting points for your own projects. With Altium Designer Software, you can easily customize and adapt these schematics to suit your specific needs.
 
 ## Contributing
 
-Contributions are welcome! If you have any improvements or additional sample designs to contribute, please follow these steps:
+We welcome contributions from the community! If you have any ideas for improvements or additional sample designs, please consider contributing.
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/additional-designs`)
@@ -36,4 +38,4 @@ Contributions are welcome! If you have any improvements or additional sample des
 
 ## License
 
-This project is licensed under the [license name]. See the [LICENSE](LICENSE) file for details.
+This project is licensed under [PAT-IOT]. Thank you for your interest and support!
