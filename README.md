@@ -18,8 +18,8 @@ Welcome to our Schematic PCB Sample Repository!
 
 Here, you'll find an assortment of sample schematics created with Altium Designer Software. Each schematic includes associated footprint parts, simplifying their integration into your projects.
 
-- `Schematics`: This folder contains schematic designs.
-- `PCB`: This folder contains PCB layouts.
+- `.SchDoc`: This file contains schematic designs.
+- `.PcbDoc`: This file contains PCB layouts.
 
 ## Usage
 
